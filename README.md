@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا قمر يضوي في هذا الليل
+> أشواق قلبي تمشي كالسيل
+> أنت الأمل في كل زمان
+> حبك يعطيني الأمان
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
