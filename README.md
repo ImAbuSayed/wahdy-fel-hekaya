@@ -10,9 +10,10 @@
 |-------|---------|
 | Title | Wahdy Fel Hekaya |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 20, 2026 |
+| Lyric Writing Date | May 03, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/wahdy-fel-hekaya/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Official Music Licensing for Wahdy Fel Hekaya](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
